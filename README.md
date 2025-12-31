@@ -1,2 +1,0 @@
-# Midas
-Website for confirmation
